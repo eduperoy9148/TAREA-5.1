@@ -9,4 +9,4 @@ La página de portafolio presenta tres proyectos con botones "Leer más" que lle
 El sitio fue probado en vista de escritorio y móvil para verificar su funcionamiento responsivo.
 
 Repositorio de GitHub:
-https://github.com/eduperoy9148/TAREA-5.1
+https://github.com/eduperoy9148/TAREA-5.1 
