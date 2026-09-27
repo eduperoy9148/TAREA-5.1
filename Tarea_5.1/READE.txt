@@ -1,0 +1,12 @@
+Tarea 5.1 - Creación de una página web responsiva
+
+En esta tarea desarrollé un sitio web tipo portafolio utilizando HTML5, CSS y Bootstrap. El sitio contiene una página de inicio, una página de portafolio y una página de contacto.
+
+Utilicé Bootstrap para crear la barra de navegación, las tarjetas de los proyectos, los botones, el formulario y el diseño responsivo. También utilicé CSS para personalizar la apariencia del sitio, incluyendo colores, estilos y una imagen de fondo.
+
+La página de portafolio presenta tres proyectos con botones "Leer más" que llevan a sus respectivas páginas de detalle. La página de contacto contiene un formulario con campos para nombre, correo electrónico y mensaje, utilizando validación de Bootstrap.
+
+El sitio fue probado en vista de escritorio y móvil para verificar su funcionamiento responsivo.
+
+Repositorio de GitHub:
+https://github.com/eduperoy9148/TAREA-5.1
